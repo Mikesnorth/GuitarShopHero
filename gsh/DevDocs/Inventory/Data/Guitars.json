@@ -1,0 +1,44 @@
+{
+    "Data": [
+        {
+            "Type": "Electric Guitar",
+            "Cost": "75",
+            "Make": "Homophone",
+            "Model": "CG",
+            "Size": "10",
+            "Description": "Entry level guitar by Homophone"
+        },
+        {
+            "Type": "Electric Guitar",
+            "Cost": "90",
+            "Make": "Jacksonian",
+            "Model": "Twinky",
+            "Size": "10",
+            "Description": "Entry level guitar by Jacksonian"
+        },
+        {
+            "Type": "Electric Guitar",
+            "Cost": "150",
+            "Make": "Zenabi",
+            "Model": "GTR",
+            "Size": "10",
+            "Description": "An affordable entry from Zenabi Guitars geared toward budding shredders"
+        },
+        {
+            "Type": "Electric Guitar",
+            "Cost": "160",
+            "Make": "Gretchen",
+            "Model": "G2024",
+            "Size": "10",
+            "Description": "An affordable hollow body guitar to get that classic sound"
+        },
+        {
+            "Type": "Electric Guitar",
+            "Cost": "250",
+            "Make": "Sure",
+            "Model": "Moderno",
+            "Size": "10",
+            "Description": "All the modern pleasantries at a relatively affordable price"
+        }
+    ]
+}
