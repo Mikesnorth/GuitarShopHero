@@ -1,12 +1,44 @@
 {
     "Data": [
         {
-            "Type": "",
-            "Cost": "",
-            "Make": "",
-            "Model": "",
-            "Size": "",
-            "Description": ""
+            "Type": "Accessory",
+            "Cost": "1",
+            "Make": "Bender",
+            "Model": "666 Pick",
+            "Size": "1",
+            "Description": "10 pack of Basic Guitar Picks"
+        },
+        {
+            "Type": "Accessory",
+            "Cost": "1",
+            "Make": "Bender",
+            "Model": "888 Pick",
+            "Size": "1",
+            "Description": "10 pack of Big Guitar Picks"
+        },
+        {
+            "Type": "Accessory",
+            "Cost": "5",
+            "Make": "Jacksonian",
+            "Model": "Super Stanky",
+            "Size": "1",
+            "Description": "Epic Electric Guitar Strings"
+        },
+        {
+            "Type": "Accessory",
+            "Cost": "5",
+            "Make": "Marinez",
+            "Model": "Martinez Strings",
+            "Size": "1",
+            "Description": "Basic Acoustic Guitar Strings"
+        },
+        {
+            "Type": "Accessory",
+            "Cost": "15",
+            "Make": "WD Rums",
+            "Model": "Drum Sticks",
+            "Size": "1",
+            "Description": "Drum sticks. Wood I guess."
         }
     ]
 }
